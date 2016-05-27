@@ -1,5 +1,5 @@
 = My First Post with HubPress
-:hp-tags: hubpress
-:hp-image: notebook-405755_1280.jpg
+:hp-tags: hubpress, test, new
+:hp-image: students-703001_1920.jpg
 
 I kindly ask you to shoot an email to help@about.me with the subject "Namecheap +About.me". Please add your about.me username and zorgan.me domain to the email.
